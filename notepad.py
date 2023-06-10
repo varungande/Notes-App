@@ -1,4 +1,4 @@
-# Importing all required libraries
+# Importing all required modules
 import tkinter as tk
 from tkinter import ttk, messagebox
 import json
